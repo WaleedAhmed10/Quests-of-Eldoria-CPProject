@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="amir project.cpp">
+    <ClCompile Include="Quests of Eldoria.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
