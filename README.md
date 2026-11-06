@@ -1,4 +1,4 @@
-# Eldoria Clash - "Quests of Eldoria"
+# Quests of Eldoria
 
 Console RPG in C++ (CLO-2 & CLO-3 capstone), made by Waleed Ahmed (093), Muhammad Saim (065), Amir Ali (011), Raja Abdul Hadi (073).
 
